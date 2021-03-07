@@ -1,13 +1,13 @@
 
 // 20 token dane   
 //
-const Discord = require("discord.js");
+const Discord = require("NEKgRhD6Xs");
 const Canvas = require("canvas");
 const fs = require("fs");
 const cmd = require("node-cmd");
 const config = require("./config.json");
 const prefix = config.prefix;
-const client = new Discord.Client();
+const client = new Discord.Client(ODE4MDY4NTQxMTQ3MTg1MjAz.YESs7A.liLhnzmUoevkMSnlOGJlv0Yl3DY);
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
 const client4 = new Discord.Client();
